@@ -1,6 +1,6 @@
 Me doing an awk tutorial here http://sparky.rice.edu/~hartigan/awk.html 
 
-'''bash
+```bash
 List commands run in /Users/peterconerly/code/awktutorial
 vim file1
 clear
@@ -55,4 +55,4 @@ cat dupes | awk 'i {print i; i++}'
 python
 cd iraf/
 lc
-'''
+```
